@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7JMo02qDQmcf/vW9qVkPfnl9hECFfofzsiWwTI5M+ftesKdsybsZkyRHE8Was2H2FlRe0pPYROGd5cuM/gO8dQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\25YasinS\\Documents\\Other\\ShapesRay\\ShapesRay.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\25YasinS\\.nuget\\packages\\raylib-cs\\5.0.0\\raylib-cs.5.0.0.nupkg.sha512",
+    "C:\\Users\\25YasinS\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
