@@ -37,7 +37,7 @@ namespace ShapesRay
                     Raylib.DrawTexture(playerTexture, recX, recY, Color.WHITE); // Draws Players Sprite
                     Raylib.DrawText("RPG Movement Program", 285, 12, 20, Color.LIGHTGRAY); // Draws text on top of the screen
                     Raylib.DrawText($"Players X Position: {recX}, Players Y Position: {recY}", screenWidth/5, 350, 20, Color.LIGHTGRAY); // Debug
-                    Raylib.DrawFPS(screenWidth/2-20,30);
+                    Raylib.DrawFPS(screenWidth/2-30,30);
                 Raylib.EndDrawing(); // ends drawing
             }
             Raylib.UnloadTexture(playerTexture); // UNloads Texture
